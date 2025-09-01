@@ -15,9 +15,6 @@ It starts with **basic projects** (company analysis, dashboards, ratio analysis,
 - **Highlights:**  
   - Dashboard showing revenue, profit growth, and other Financial ratio insights.  
   - Used Pivot Tables, Data Validation, Charts, and Conditional Formatting.  
-- **Preview:**  
-  ![MRF Dashboard Preview](<img width="1308" height="612" alt="Screenshot 2025-09-02 024358" src="https://github.com/user-attachments/assets/f9ef29ca-e1df-420f-b7b9-a060faf4bb73" />
-)
 
 ---
 
