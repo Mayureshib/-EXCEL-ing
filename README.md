@@ -1,5 +1,5 @@
 # 📊 EXCEL-ing
-*A collection of Excel-based financial projects, dashboards, and models — building the foundation for advanced financial analysis and investment banking applications.*
+*A collection of Excel-based financial projects, dashboards, and models building the foundation for advanced financial analysis and investment banking applications.*
 
 ---
 
